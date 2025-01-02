@@ -1,6 +1,6 @@
 # Merhaba! 👋 Ben Furkan
 
-🌟 **Frontend Developer | React Enthusiast | Öğrenmeye Açık**  
+🌟 **Fullstack Web Developer**  
 💻 **Next.js ile projeler geliştiriyorum.**  
 
 ---
@@ -13,8 +13,8 @@
 ---
 
 ### 🔧 Yetkinliklerim
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express.js
+- **Frontend:** React, Next.js, Typescript, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express.js, Flask
 - **Veritabanı:** MongoDB, MySQL
 - **Diğer:** Git, GitHub Actions, Figma
 
