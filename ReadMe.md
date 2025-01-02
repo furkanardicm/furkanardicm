@@ -28,5 +28,5 @@
 ---
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [Muhammed Furkan Ardıç](https://linkedin.com/in/furkanardcm)
+- **LinkedIn:** [Muhammed Furkan Ardıç](https://linkedin.com/in/furkanardicm)
 - **E-posta:** furkanardcm@gmail.com
