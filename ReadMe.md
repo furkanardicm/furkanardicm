@@ -22,8 +22,8 @@
 
 ### 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurkanArdic1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanArdic1&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanardicm&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanardicm&layout=compact&theme=radical)
 
 ---
 
