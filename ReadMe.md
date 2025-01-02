@@ -22,11 +22,11 @@
 
 ### 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurkanArdic1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanArdic1&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [Furkan](https://linkedin.com/in/furkan)
-- **E-posta:** furkan@example.com
+- **LinkedIn:** [Muhammed Furkan Ardıç](https://linkedin.com/in/furkanardcm)
+- **E-posta:** furkanardcm@gmail.com
