@@ -6,7 +6,6 @@
 ---
 
 ### 🚀 Hakkımda
-- 📚 İkinci el kitap satış platformu üzerinde çalışıyorum.
 - ✨ Tutkularım: Yazılım geliştirme, müzik ve sanatsal projeler.
 
 ---
