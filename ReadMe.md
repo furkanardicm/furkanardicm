@@ -1,30 +1,20 @@
-# Merhaba! 👋 Ben Furkan
+# Muhammed Furkan Ardıç
 
-🌟 **Fullstack Web Developer**  
-💻 **Next.js ile projeler geliştiriyorum.**  
+**Software Engineer · Frontend Developer**
 
----
+React, Next.js ve TypeScript ile modern web uygulamaları geliştiriyorum. Özellikle kullanıcı deneyimi, sade arayüzler ve sürdürülebilir frontend mimarileri üzerine çalışıyorum.
 
-### 🚀 Hakkımda
-- ✨ Tutkularım: Yazılım geliştirme, müzik ve sanatsal projeler.
+### Technologies
 
----
+**Frontend**  
+TypeScript · JavaScript · React · Next.js · Tailwind CSS
 
-### 🔧 Yetkinliklerim
-- **Frontend:** React, Next.js, Typescript, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express.js, Flask
-- **Veritabanı:** MongoDB, MySQL
-- **Diğer:** Git, GitHub Actions, Figma
+**Backend & Database**  
+Node.js · Express.js · Flask · MySQL · MongoDB
 
----
+**Tools**  
+Git · Docker · Figma
 
-### 📊 GitHub İstatistiklerim
+### Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanardicm&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanardicm&layout=compact&theme=radical)
-
----
-
-### 📫 Bana Ulaşın
-- **LinkedIn:** [Muhammed Furkan Ardıç](https://linkedin.com/in/furkanardicm)
-- **E-posta:** furkanardcm@gmail.com
+[LinkedIn](https://linkedin.com/in/furkanardicm) · [Email](mailto:furkanardcm@gmail.com)
