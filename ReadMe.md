@@ -1,19 +1,40 @@
 # Muhammed Furkan Ardıç
 
-**Software Engineer · Frontend Developer**
+**Software Engineer · Full-Stack Developer**
 
-React, Next.js ve TypeScript ile modern web uygulamaları geliştiriyorum. Özellikle kullanıcı deneyimi, sade arayüzler ve sürdürülebilir frontend mimarileri üzerine çalışıyorum.
+Software engineer experienced in developing web applications, enterprise websites, and content-driven platforms.
 
-### Technologies
+I work across frontend and backend technologies, with a focus on maintainable architectures, clean interfaces, and scalable solutions. My experience includes React and Next.js applications, Go template-based websites, CMS development, and database-driven systems.
+
+### Tech Stack
 
 **Frontend**  
-TypeScript · JavaScript · React · Next.js · Tailwind CSS
+JavaScript · TypeScript · React · Next.js
 
-**Backend & Database**  
-Node.js · Express.js · Flask · MySQL · MongoDB
+**Backend & Templating**  
+Node.js · Python · Go Templates
 
-**Tools**  
-Git · Docker · Figma
+**Databases**  
+PostgreSQL · MySQL · MongoDB
+
+**Development & Tools**  
+CMS Development · Git · Docker · Figma
+
+### Selected Work
+
+Websites and digital platforms I've contributed to across government, defense, technology, cybersecurity, and the private sector.
+
+| Project | Website |
+|---|---|
+| Türkiye Kuantum Platformu | [kuantum.ssb.gov.tr](https://kuantum.ssb.gov.tr) |
+| SAYZEK | [sayzek.org.tr](https://sayzek.org.tr) |
+| SAYZEK Academic Thesis Program | [atp.sayzek.org.tr](https://atp.sayzek.org.tr) |
+| Siber Vatan | [sibervatan.org](https://sibervatan.org) |
+| Batı Karadeniz Kalkınma Ajansı | [bakka.gov.tr](https://bakka.gov.tr) |
+| BAKKA Kütüphane | [bakkakutuphane.org](https://bakkakutuphane.org) |
+| CYROPS | [cyrops.com](https://cyrops.com) |
+| TSD Defne | [tsddefne.com](https://tsddefne.com) |
+| Çayırhan Enerji | [cayirhanenerji.com](https://cayirhanenerji.com) |
 
 ### Contact
 
