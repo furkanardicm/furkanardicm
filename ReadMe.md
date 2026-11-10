@@ -9,26 +9,26 @@ Frontend developer at **Cyrops** and **Hackviser**. I build web applications and
 ## Stack
 
 **Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-805A00?style=for-the-badge&logo=javascript&logoColor=FFE158)
-![TypeScript](https://img.shields.io/badge/TypeScript-235FA0?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-005B74?style=for-the-badge&logo=react&logoColor=81E3FF)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![JavaScript](assets/stack/javascript.svg)
+![TypeScript](assets/stack/typescript.svg)
+![React](assets/stack/react.svg)
+![Next.js](assets/stack/nextdotjs.svg)
 
 **Backend & content**  
-![Node.js](https://img.shields.io/badge/Node.js-32652C?style=for-the-badge&logo=nodedotjs&logoColor=C2EBAE)
-![Python](https://img.shields.io/badge/Python-275E88?style=for-the-badge&logo=python&logoColor=FFE16A)
-![Go templates](https://img.shields.io/badge/Go%20templates-006A83?style=for-the-badge&logo=go&logoColor=FFFFFF)
-![CMS development](https://img.shields.io/badge/CMS%20development-674187?style=for-the-badge)
+![Node.js](assets/stack/nodedotjs.svg)
+![Python](assets/stack/python.svg)
+![Go templates](assets/stack/go.svg)
+![CMS development](assets/stack/cms-development.svg)
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-315D88?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-15566D?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-22623C?style=for-the-badge&logo=mongodb&logoColor=B4F3B9)
+![PostgreSQL](assets/stack/postgresql.svg)
+![MySQL](assets/stack/mysql.svg)
+![MongoDB](assets/stack/mongodb.svg)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-AC3829?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0366A6?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-A33677?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Git](assets/stack/git.svg)
+![Docker](assets/stack/docker.svg)
+![Figma](assets/stack/figma.svg)
 
 ## Selected work
 
