@@ -9,26 +9,26 @@ Frontend developer at **Cyrops** and **Hackviser**. I build web applications and
 ## Stack
 
 **Frontend**  
-![JavaScript](assets/stack/javascript.svg)
-![TypeScript](assets/stack/typescript.svg)
-![React](assets/stack/react.svg)
-![Next.js](assets/stack/nextdotjs.svg)
+![JavaScript](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/javascript.svg)
+![TypeScript](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/typescript.svg)
+![React](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/react.svg)
+![Next.js](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/nextdotjs.svg)
 
 **Backend & content**  
-![Node.js](assets/stack/nodedotjs.svg)
-![Python](assets/stack/python.svg)
-![Go templates](assets/stack/go.svg)
-![CMS development](assets/stack/cms-development.svg)
+![Node.js](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/nodedotjs.svg)
+![Python](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/python.svg)
+![Go templates](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/go.svg)
+![CMS development](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/cms-development.svg)
 
 **Databases**  
-![PostgreSQL](assets/stack/postgresql.svg)
-![MySQL](assets/stack/mysql.svg)
-![MongoDB](assets/stack/mongodb.svg)
+![PostgreSQL](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/postgresql.svg)
+![MySQL](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/mysql.svg)
+![MongoDB](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/mongodb.svg)
 
 **Tools**  
-![Git](assets/stack/git.svg)
-![Docker](assets/stack/docker.svg)
-![Figma](assets/stack/figma.svg)
+![Git](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/git.svg)
+![Docker](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/docker.svg)
+![Figma](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/figma.svg)
 
 ## Selected work
 
