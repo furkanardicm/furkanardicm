@@ -26,16 +26,16 @@ Websites and digital platforms I've contributed to across government, defense, t
 
 | Project | Website |
 |---|---|
-| Türkiye Kuantum Platformu | [kuantum.ssb.gov.tr](https://kuantum.ssb.gov.tr) |
+| Türkiye Quantum Platform | [kuantum.ssb.gov.tr](https://kuantum.ssb.gov.tr) |
 | SAYZEK | [sayzek.org.tr](https://sayzek.org.tr) |
 | SAYZEK Academic Thesis Program | [atp.sayzek.org.tr](https://atp.sayzek.org.tr) |
 | Hackviser | [app.hackviser.com](https://app.hackviser.com) |
 | Siber Vatan | [sibervatan.org](https://sibervatan.org) |
-| Batı Karadeniz Kalkınma Ajansı | [bakka.gov.tr](https://bakka.gov.tr) |
-| BAKKA Kütüphane | [bakkakutuphane.org](https://bakkakutuphane.org) |
-| CYROPS | [cyrops.com](https://cyrops.com) |
+| Western Black Sea Development Agency (BAKKA) | [bakka.gov.tr](https://bakka.gov.tr) |
+| BAKKA Library | [bakkakutuphane.org](https://bakkakutuphane.org) |
+| Cyrops | [cyrops.com](https://cyrops.com) |
 | TSD Defne | [tsddefne.com](https://tsddefne.com) |
-| Çayırhan Enerji | [https://cayirhanenerji.com.tr/](https://cayirhanenerji.com.tr/) |
+| Çayırhan Enerji | [cayirhanenerji.com.tr](https://cayirhanenerji.com.tr/) |
 
 ### Contact
 
