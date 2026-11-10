@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="30" viewBox="0 0 89 30">
+  <title>Figma</title>
+  <defs>
+    <linearGradient id="shade" x2="0" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#000000" stop-opacity=".14"/>
+    </linearGradient>
+  </defs>
+  <rect width="89" height="30" rx="4" fill="#F24E1E"/>
+  <rect width="89" height="30" rx="4" fill="url(#shade)"/>
+  <rect x="6" y="4" width="22" height="22" rx="3" fill="#FFFFFF"/>
+  <g transform="translate(10 5) scale(0.67)">
+    <path fill="#F24E1E" d="M5 0a5 5 0 0 0 0 10h5V0z"/>
+    <path fill="#FF7262" d="M10 0h5a5 5 0 1 1 0 10h-5z"/>
+    <path fill="#A259FF" d="M5 10a5 5 0 0 0 0 10h5V10z"/>
+    <circle cx="15" cy="15" r="5" fill="#1ABCFE"/>
+    <path fill="#0ACF83" d="M5 20a5 5 0 1 0 5 5v-5z"/>
+  </g>
+  <text x="34" y="20" fill="#FFFFFF" stroke="#000000" stroke-opacity=".38" stroke-width=".8" paint-order="stroke fill" font-family="Verdana,Arial,sans-serif" font-size="14">Figma</text>
+</svg>

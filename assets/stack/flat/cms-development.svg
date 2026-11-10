@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="30" viewBox="0 0 153 30">
+  <title>CMS development</title>
+  <defs>
+    <linearGradient id="shade" x2="0" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#000000" stop-opacity=".14"/>
+    </linearGradient>
+  </defs>
+  <rect width="153" height="30" rx="4" fill="#57606A"/>
+  <rect width="153" height="30" rx="4" fill="url(#shade)"/>
+  <text x="9" y="20" fill="#FFFFFF" stroke="#000000" stroke-opacity=".38" stroke-width=".8" paint-order="stroke fill" font-family="Verdana,Arial,sans-serif" font-size="14">CMS development</text>
+</svg>

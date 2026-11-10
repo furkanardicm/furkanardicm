@@ -9,26 +9,26 @@ Frontend developer at **Cyrops** and **Hackviser**. I build web applications and
 ## Stack
 
 **Frontend**  
-![JavaScript](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/javascript.svg)
-![TypeScript](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/typescript.svg)
-![React](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/react.svg)
-![Next.js](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/nextdotjs.svg)
+![JavaScript](assets/stack/flat/javascript.svg)
+![TypeScript](assets/stack/flat/typescript.svg)
+![React](assets/stack/flat/react.svg)
+![Next.js](assets/stack/flat/nextdotjs.svg)
 
 **Backend & content**  
-![Node.js](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/nodedotjs.svg)
-![Python](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/python.svg)
-![Go templates](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/go.svg)
-![CMS development](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/cms-development.svg)
+![Node.js](assets/stack/flat/nodedotjs.svg)
+![Python](assets/stack/flat/python.svg)
+![Go templates](assets/stack/flat/go.svg)
+![CMS development](assets/stack/flat/cms-development.svg)
 
 **Databases**  
-![PostgreSQL](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/postgresql.svg)
-![MySQL](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/mysql.svg)
-![MongoDB](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/mongodb.svg)
+![PostgreSQL](assets/stack/flat/postgresql.svg)
+![MySQL](assets/stack/flat/mysql.svg)
+![MongoDB](assets/stack/flat/mongodb.svg)
 
 **Tools**  
-![Git](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/git.svg)
-![Docker](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/docker.svg)
-![Figma](https://raw.githubusercontent.com/furkanardicm/furkanardicm/a637a941b5f5bdb67bae7fd0e26725b78fc8668e/assets/stack/figma.svg)
+![Git](assets/stack/flat/git.svg)
+![Docker](assets/stack/flat/docker.svg)
+![Figma](assets/stack/flat/figma.svg)
 
 ## Selected work
 
