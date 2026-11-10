@@ -35,7 +35,7 @@ Websites and digital platforms I've contributed to across government, defense, t
 | BAKKA Kütüphane | [bakkakutuphane.org](https://bakkakutuphane.org) |
 | CYROPS | [cyrops.com](https://cyrops.com) |
 | TSD Defne | [tsddefne.com](https://tsddefne.com) |
-| Çayırhan Enerji | [cayirhanenerji.com](https://cayirhanenerji.com) |
+| Çayırhan Enerji | [https://cayirhanenerji.com.tr/](https://cayirhanenerji.com.tr/) |
 
 ### Contact
 
